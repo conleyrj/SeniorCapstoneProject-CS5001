@@ -1,4 +1,6 @@
-## Melanie Mai 
+## Individual Capstone Assessment
+### Melanie Mai
+
 The senior design project Hepatic Heroes has planned to execute is an automatic paper exam generator. This tool will provide randomized deviations of ‘banked’ questions for each student in a class as well as automatic solutions for the professor or TAs of that class to grade easily. The exams will be generated from a random seed that will be represented by a barcode on the printed exam. This barcode will be able to be scanned by a mobile application that will also be developed to generate a solution set for that particular exam seed. A web application will also be developed to build problems to ‘bank’. A ‘banked’ problem will be a question that can be altered slightly so that the process to solve the ‘banked’ problem will be very similar but the answer or the numbers that will be worked with will be different. This project will mainly be developed in React Native.
 
 
