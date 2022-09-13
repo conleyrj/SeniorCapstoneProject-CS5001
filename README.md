@@ -14,7 +14,7 @@ Dr. Gregory W. Bucks
 TODO
 
 ## Project Navigation
-[Project Description](ProjectDescription.md)
-[Team Contract](TeamContract.md)
+- [Project Description](ProjectDescription.md)
+- [Team Contract](TeamContract.md)
 
 TODO Add other project files
