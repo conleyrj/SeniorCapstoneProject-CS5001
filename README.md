@@ -2,10 +2,10 @@
 University of Cincinnati Capstone Project
 
 ### Team Members
-Dylan Ryman
-Melanie Mai
-Neha Chawla
-Ryan Conley
+- Dylan Ryman
+- Melanie Mai
+- Neha Chawla
+- Ryan Conley
 
 ### Faculty Advisor
 Dr. Gregory W. Bucks
