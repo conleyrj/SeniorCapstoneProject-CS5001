@@ -16,5 +16,10 @@ TODO
 ## Project Navigation
 - [Project Description](ProjectDescription.md)
 - [Team Contract](TeamContract.md)
+- [User Stories](UserStories.md)
+- [Design Diagrams](/Design_Diagrams/DesignDiagrams.md)
+    - [D0](/Design_Diagrams/D0.png)
+    - [D1](/Design_Diagrams/D1.png)
+    - [D2](/Design_Diagrams/D2.png)
 
 TODO Add other project files
