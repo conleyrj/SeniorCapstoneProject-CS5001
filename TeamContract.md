@@ -1,4 +1,4 @@
-# Capstone Project Team Project
+# Capstone Project
 **Project Advisor:** Dr. Gregory W. Bucks
 
 ## Team Members
@@ -21,5 +21,11 @@ The project is an automatic paper exam generator. This tool will provide randomi
 
 ## Role of Each Member
 
-The Team Roles will be defined at a later date after future research is conducted. We are focused on researching the most optimal way to complete this project. 
+We are focused on researching the most optimal way to complete this project. While most, if not all, aspects of this project will be a collaborative effort, we have attempted to separate the primary responsibilities of each team member by assigning them the following roles. We believe these roles highlight the strengths of each member and do a good job of describing what can be expected from each team member. 
 
+| Name        | Role        | Description of role |
+| ----------- | ----------- | ----------------- |
+| Dylan Ryman | Tech lead | Final say on all technical decisions regarding the project. Will have a clear technical vision of the project at all times. |
+| Melanie Mai | User Experience Lead | Final say on all UI/UX aspects of the project. Will have a clear vision of the front-facing vision of the project at all times. |
+| Ryan Conley | Scrum Master | Facilitates team meetings and plans out what team needs to do to meet deadlines. Will know the status of the project at all times. |
+| Neha Chawla | Testing Lead and Staff Communication | Final say on testing criteria for the project. Assuming a faculty member is willing to work with us for a sample exam with the system, will be responsible for communication with said faculty member |
