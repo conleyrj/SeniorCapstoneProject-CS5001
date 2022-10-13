@@ -51,7 +51,6 @@
 | Prepare to present project                                      | Week 13         | Week 15 | Project Presentation           |
 
 # Effort Matrix
-we could like do percentages or hours
 | Task                                                            | Status     | Dylan Ryman | Ryan Conley | Neha Chawla | Melanie Mai |
 | --------------------------------------------------------------- | ---------- | ----------- | ----------- | ----------- | ----------- |
 | Decide primarylanguage(s) for project                           | Incomplete | 40%         | 20%         | 20%         | 20%         |
