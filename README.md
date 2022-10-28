@@ -11,7 +11,7 @@ University of Cincinnati Capstone Project
 Dr. Gregory W. Bucks
 
 ## Project Abstract
-TODO
+There are classroom settings that necessitate the use of free response paper exams. Our project will be an exam creation tool that is capable of regenerating slight variances of the same question within user-specified bounds. Additionally, our project will incorporate a means to scan the printed exams so that graders are able to account for these question variances with a solution set that is generated and easily accessible. As a result, our product will prevent cheating in the classroom while not being more difficult from a grader's perspective.
 
 ## Project Navigation
 - [Project Description](ProjectDescription.md)
