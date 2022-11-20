@@ -26,3 +26,23 @@ There are classroom settings that necessitate the use of free response paper exa
 - [Project Constraints](/Constraints.md)
 -
 TODO Add other project files
+
+
+TODO Remove and update with the following categories for a final report
+
+Final Report Sections
+1. Team Names and Abstract
+2. Project Description
+3. User Stories and Design Diagrams
+    - User Stories
+    - Design Diagrams
+    - Description of the diagrams
+4. Project Tasks and Timeline
+    - Task List
+    - Timeline
+    - Effort Matrix
+5. PPT
+6. Self-Assignment Essays
+7. Professional Biographies
+9. Statement of no expidenture
+10. Appendix
