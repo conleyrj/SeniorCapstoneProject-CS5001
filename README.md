@@ -2,7 +2,16 @@
 University of Cincinnati Capstone Project
 
 ## Project Navigation
-- TODO
+- [Team Information](https://github.com/conleyrj/SeniorCapstoneProject-CS5001/blob/main/README.md#team-information)
+- [Project Description](https://github.com/conleyrj/SeniorCapstoneProject-CS5001/blob/main/README.md#project-description)
+- [User Stories and Design Diagrams](https://github.com/conleyrj/SeniorCapstoneProject-CS5001/blob/main/README.md#user-stories-and-design-diagrams)
+- [Project Tasks and Timeline](https://github.com/conleyrj/SeniorCapstoneProject-CS5001/blob/main/README.md#project-tasks-and-timeline)
+- [Presentation of Project](https://github.com/conleyrj/SeniorCapstoneProject-CS5001/blob/main/README.md#presentation-of-project)
+- [Self-Assessment Essays](https://github.com/conleyrj/SeniorCapstoneProject-CS5001/blob/main/README.md#self-assessment-essays)
+- [Professional Biographies](https://github.com/conleyrj/SeniorCapstoneProject-CS5001/blob/main/README.md#professional-biographies)
+- [Budget](https://github.com/conleyrj/SeniorCapstoneProject-CS5001/blob/main/README.md#budget)
+- [Appendix](https://github.com/conleyrj/SeniorCapstoneProject-CS5001/blob/main/README.md#appendix)
+
 
 ## Team Information
 **Project Advisor:** Dr. Gregory W. Bucks
@@ -22,12 +31,12 @@ Our team contract with an assignment of roles can be found [here](https://github
 There are classroom settings that necessitate the use of free response paper exams. Our project will be an exam creation tool that is capable of regenerating slight variances of the same question within user-specified bounds. Additionally, our project will incorporate a means to scan an identification label on the printed exams so that graders are able to account for these question variances with a solution set that is generated and easily accessible. As a result, our product will prevent cheating in the classroom while not being more difficult from a grader's perspective.
 
 ## Project Description
-Please view the project description [here](https://github.com/conleyrj/SeniorCapstoneProject-CS5001/blob/main/ProjectDescription.md)
+[Please view the project description here](https://github.com/conleyrj/SeniorCapstoneProject-CS5001/blob/main/ProjectDescription.md)
 
 ## User Stories and Design Diagrams
-For a list of user stories, please visit [this page](https://github.com/conleyrj/SeniorCapstoneProject-CS5001/blob/main/UserStories.md)  
+- [User Stories](https://github.com/conleyrj/SeniorCapstoneProject-CS5001/blob/main/UserStories.md)  
   
-Descriptions of our design diagrams are viewable [here](https://github.com/conleyrj/SeniorCapstoneProject-CS5001/blob/main/Design_Diagrams/DesignDiagrams.md)
+- [Design Diagrams with Descriptions](https://github.com/conleyrj/SeniorCapstoneProject-CS5001/blob/main/Design_Diagrams/DesignDiagrams.md)
 
 ## Project Tasks and Timeline
 - [Task list](https://github.com/conleyrj/SeniorCapstoneProject-CS5001/blob/main/Tasklist.md)
