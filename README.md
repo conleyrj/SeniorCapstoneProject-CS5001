@@ -1,6 +1,9 @@
 # TODO Project Name
 University of Cincinnati Capstone Project
 
+## Project Navigation
+- TODO
+
 ## Team Information
 **Project Advisor:** Dr. Gregory W. Bucks
 
@@ -13,39 +16,41 @@ University of Cincinnati Capstone Project
 | Ryan Conley | conleyrj@mail.uc.edu |
 | Neha Chawla | chawlana@mail.uc.edu |
 
+Our team contract with an assignment of roles can be found [here](https://github.com/conleyrj/SeniorCapstoneProject-CS5001/blob/main/TeamContract.md)
+
 #### Project Abstract
-There are classroom settings that necessitate the use of free response paper exams. Our project will be an exam creation tool that is capable of regenerating slight variances of the same question within user-specified bounds. Additionally, our project will incorporate a means to scan the printed exams so that graders are able to account for these question variances with a solution set that is generated and easily accessible. As a result, our product will prevent cheating in the classroom while not being more difficult from a grader's perspective.
+There are classroom settings that necessitate the use of free response paper exams. Our project will be an exam creation tool that is capable of regenerating slight variances of the same question within user-specified bounds. Additionally, our project will incorporate a means to scan an identification label on the printed exams so that graders are able to account for these question variances with a solution set that is generated and easily accessible. As a result, our product will prevent cheating in the classroom while not being more difficult from a grader's perspective.
 
-## Project Navigation
-- [Project Description](ProjectDescription.md)
-- [Team Contract](TeamContract.md)
-- [User Stories](UserStories.md)
-- [Design Diagrams](/Design_Diagrams/DesignDiagrams.md)
-    - [D0](/Design_Diagrams/D0.png)
-    - [D1](/Design_Diagrams/D1.png)
-    - [D2](/Design_Diagrams/D2.png)
-- [Task List](Tasklist.md)
-- [Milestones, Timeline, and Effort Matrix](/Milestones.md)
-- [Project Constraints](/Constraints.md)
--
-TODO Add other project files
+## Project Description
+Please view the project description [here](https://github.com/conleyrj/SeniorCapstoneProject-CS5001/blob/main/ProjectDescription.md)
 
+## User Stories and Design Diagrams
+For a list of user stories, please visit [this page](https://github.com/conleyrj/SeniorCapstoneProject-CS5001/blob/main/UserStories.md)  
+  
+Descriptions of our design diagrams are viewable [here](https://github.com/conleyrj/SeniorCapstoneProject-CS5001/blob/main/Design_Diagrams/DesignDiagrams.md)
 
-TODO Remove and update with the following categories for a final report
+## Project Tasks and Timeline
+- [Task list](https://github.com/conleyrj/SeniorCapstoneProject-CS5001/blob/main/Tasklist.md)
+- [Timeline](https://github.com/conleyrj/SeniorCapstoneProject-CS5001/blob/main/Milestones.md#timeline)
+- [Milestones](https://github.com/conleyrj/SeniorCapstoneProject-CS5001/blob/main/Milestones.md#milestones)
 
-Final Report Sections
-1. Team Names and Abstract
-2. Project Description
-3. User Stories and Design Diagrams
-    - User Stories
-    - Design Diagrams
-    - Description of the diagrams
-4. Project Tasks and Timeline
-    - Task List
-    - Timeline
-    - Effort Matrix
-5. PPT
-6. Self-Assignment Essays
-7. Professional Biographies
-9. Statement of no expidenture
-10. Appendix
+## Presentation of Project
+[Our presentation is available through YouTube](https://www.youtube.com/watch?v=nM9z1V7UVlc)
+
+## Self-Assessment Essays
+- TODO Dylan
+- [Melanie Mai](https://github.com/conleyrj/SeniorCapstoneProject-CS5001/blob/main/HomeworkEssays/MMai_IndividualAssessment.md)
+- [Neha Chawla](https://github.com/conleyrj/SeniorCapstoneProject-CS5001/blob/main/HomeworkEssays/Senior%20Design%20Homework%203-%20Neha%20Chawla.md)
+- [Ryan Conley](https://github.com/conleyrj/SeniorCapstoneProject-CS5001/blob/main/HomeworkEssays/ConleyIndividualEssay.md)
+
+## Professional Biographies
+- TODO Dylan
+- [Melanie Mai](https://github.com/conleyrj/SeniorCapstoneProject-CS5001/blob/main/CS5001_melaniemai_prof_bio.md)
+- [Neha Chawla](https://github.com/conleyrj/SeniorCapstoneProject-CS5001/blob/main/ChawlaNeha_Biography.md)
+- [Ryan Conley](https://github.com/conleyrj/SeniorCapstoneProject-CS5001/blob/main/ConleyProfessionalBiography.md)
+
+## Budget
+There have been no costs asscociated with this project to date.
+
+## Appendix
+TODO
