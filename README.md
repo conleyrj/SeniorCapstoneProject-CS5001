@@ -47,7 +47,7 @@ There are classroom settings that necessitate the use of free response paper exa
 [Our presentation is available through YouTube](https://www.youtube.com/watch?v=nM9z1V7UVlc)
 
 ## Self-Assessment Essays
-- TODO Dylan
+- [Dylan Ryman](https://github.com/conleyrj/SeniorCapstoneProject-CS5001/blob/main/HomeworkEssays/Essay_Ryman.md)
 - [Melanie Mai](https://github.com/conleyrj/SeniorCapstoneProject-CS5001/blob/main/HomeworkEssays/MMai_IndividualAssessment.md)
 - [Neha Chawla](https://github.com/conleyrj/SeniorCapstoneProject-CS5001/blob/main/HomeworkEssays/Senior%20Design%20Homework%203-%20Neha%20Chawla.md)
 - [Ryan Conley](https://github.com/conleyrj/SeniorCapstoneProject-CS5001/blob/main/HomeworkEssays/ConleyIndividualEssay.md)
