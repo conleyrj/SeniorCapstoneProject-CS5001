@@ -1,4 +1,4 @@
-# TODO Project Name
+# PAPER (Paper Assessment Problem and Exam Resource)
 University of Cincinnati Capstone Project
 
 ## Project Navigation
