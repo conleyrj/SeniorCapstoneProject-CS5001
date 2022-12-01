@@ -60,6 +60,3 @@ There are classroom settings that necessitate the use of free response paper exa
 
 ## Budget
 There have been no costs asscociated with this project to date.
-
-## Appendix
-TODO
