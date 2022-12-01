@@ -51,7 +51,7 @@ There are classroom settings that necessitate the use of free response paper exa
 - [Ryan Conley](https://github.com/conleyrj/SeniorCapstoneProject-CS5001/blob/main/HomeworkEssays/ConleyIndividualEssay.md)
 
 ## Professional Biographies
-- TODO Dylan
+- [Dylan Ryman](https://github.com/conleyrj/SeniorCapstoneProject-CS5001/blob/main/Biography_Ryman.md)
 - [Melanie Mai](https://github.com/conleyrj/SeniorCapstoneProject-CS5001/blob/main/CS5001_melaniemai_prof_bio.md)
 - [Neha Chawla](https://github.com/conleyrj/SeniorCapstoneProject-CS5001/blob/main/ChawlaNeha_Biography.md)
 - [Ryan Conley](https://github.com/conleyrj/SeniorCapstoneProject-CS5001/blob/main/ConleyProfessionalBiography.md)
