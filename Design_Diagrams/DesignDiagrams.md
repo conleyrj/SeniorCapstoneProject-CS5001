@@ -1,4 +1,4 @@
-## Project Title: Automatic Paper Exam Generator
+## Project Title: PAPER (Paper Assessment Problem and Exam Resource)
 ## Goal Statement: 
 Create an application that will allow professors and TAs to quickly and easily grade assignments/exams
 
