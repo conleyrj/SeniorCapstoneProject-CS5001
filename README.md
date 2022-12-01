@@ -10,8 +10,6 @@ University of Cincinnati Capstone Project
 - [Self-Assessment Essays](https://github.com/conleyrj/SeniorCapstoneProject-CS5001/blob/main/README.md#self-assessment-essays)
 - [Professional Biographies](https://github.com/conleyrj/SeniorCapstoneProject-CS5001/blob/main/README.md#professional-biographies)
 - [Budget](https://github.com/conleyrj/SeniorCapstoneProject-CS5001/blob/main/README.md#budget)
-- [Appendix](https://github.com/conleyrj/SeniorCapstoneProject-CS5001/blob/main/README.md#appendix)
-
 
 ## Team Information
 **Project Advisor:** Dr. Gregory W. Bucks
