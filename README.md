@@ -4,6 +4,7 @@ University of Cincinnati Capstone Project
 ## Project Navigation
 - [Team Information](https://github.com/conleyrj/SeniorCapstoneProject-CS5001/blob/main/README.md#team-information)
 - [Project Description](https://github.com/conleyrj/SeniorCapstoneProject-CS5001/blob/main/README.md#project-description)
+- [Output Mockup](https://github.com/conleyrj/SeniorCapstoneProject-CS5001/blob/main/OutputMockup.pdf)
 - [User Stories and Design Diagrams](https://github.com/conleyrj/SeniorCapstoneProject-CS5001/blob/main/README.md#user-stories-and-design-diagrams)
 - [Project Tasks and Timeline](https://github.com/conleyrj/SeniorCapstoneProject-CS5001/blob/main/README.md#project-tasks-and-timeline)
 - [Presentation of Project](https://github.com/conleyrj/SeniorCapstoneProject-CS5001/blob/main/README.md#presentation-of-project)
